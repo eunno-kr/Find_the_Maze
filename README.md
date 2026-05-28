@@ -108,7 +108,7 @@ python Find_the_Maze.py
 
 
  **시작화면**
-![미로찾기 시작화면](이미지_주소)  <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
+![미로찾기 시작화면] <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
 
 
 
