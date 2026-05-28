@@ -119,7 +119,7 @@ python Find_the_Maze.py
 
 
 
- **도착화면**
+ **도착화면**<br>
 ![미로찾기 도착시] <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" /> 
 
 
