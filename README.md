@@ -6,7 +6,7 @@
 키보드 입력
 화면 업데이트
 
-```inport flet as ft
+inport flet as ft
 
 START = 'e'   # 시작 지점 설정
 END = 'x'   # 도착 지점 설정
@@ -98,7 +98,7 @@ def main(page: ft.Page):   #   전체 화면으로 실행
   page.add(layout)   #ui 생성 
   update_display()  # 초기 화면 그대로 세
 
-ft.run(main)   # 전체 시작
+ft.run(main)   # 전체 시작```
 
 터미널 실행
 python Find_the_Maze.py
