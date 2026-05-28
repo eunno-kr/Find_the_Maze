@@ -134,23 +134,25 @@ python Find_the_Maze.py
 
 
 
-> 🎮 **미로찾기 게임 전체 흐름 정리**<br>
-> 프로그램 시작<br>
-> ↓<br>
-> **main** 실행<br>
-> ↓<br>
-> UI 생성<br>
-> ↓<br>
-> 사용자 키 입력<br>
-> ↓<br>
-> **on_keyboard** 실행<br>
-> ↓<br>
-> 이동 계산<br>
-> ↓<br>
-> 이동 가능 체크<br>
-> ↓<br>
-> **player_pos** 변경<br>
-> ↓<br>
-> **update_display()**<br>
-> ↓<br>
-> 화면 변경
+<p align="center">
+  🎮 <strong>미로찾기 게임 전체 흐름 정리</strong><br>
+  프로그램 시작<br>
+  ↓<br>
+  <strong>main</strong> 실행<br>
+  ↓<br>
+  UI 생성<br>
+  ↓<br>
+  사용자 키 입력<br>
+  ↓<br>
+  <strong>on_keyboard</strong> 실행<br>
+  ↓<br>
+  이동 계산<br>
+  ↓<br>
+  이동 가능 체크<br>
+  ↓<br>
+  <strong>player_pos</strong> 변경<br>
+  ↓<br>
+  <strong>update_display()</strong><br>
+  ↓<br>
+  화면 변경
+</p>
