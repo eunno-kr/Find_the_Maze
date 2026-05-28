@@ -21,7 +21,6 @@ map_data = [
 ]   # 지도 맵핑
 
 
-
 for i in range(maze_size):   #이중 반복문 중 바깥
   for j in range(maze_size):   #이중 반복문 중 안쪽
       if map_data[i][j] == START:  # 시작점 찾기
