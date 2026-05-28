@@ -144,6 +144,13 @@ python Find_the_Maze.py
 
 
 
+
+
+
+
+
+
+
 <img width="399" height="452" alt="벽" src="https://github.com/user-attachments/assets/7d17c738-d99b-4a9f-bb9e-7e0ed219f65e" />
 
 
@@ -154,7 +161,7 @@ python Find_the_Maze.py
 
 
 
-🎮미로찾기 게임 전체 흐름 정리
+```🎮미로찾기 게임 전체 흐름 정리
         프로그램 시작
             ↓
         main 실행
