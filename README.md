@@ -102,7 +102,7 @@ ft.run(main)   # 전체 시작
 ```
 
 
-터미널 실행
+터미널 실행 <br>
 python Find_the_Maze.py
 
 
