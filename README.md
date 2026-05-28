@@ -11,7 +11,7 @@ START = 'e'   # 시작 지점 설정
 END = 'x'   # 도착 지점 설정
 WALL = '1'   # 벽 설정 그 외 길
 
-map_data = [
+```map_data = [
     ['e', '1', '1', '1', '1', '1'],
     ['0', '0', '0', '0', '0', '0'],
     ['1', '0', '1', '0', '1', '0'],
@@ -105,11 +105,23 @@ python Find_the_Maze.py
 시작화면
 <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
 
+
+
+
+
 도착시
 <img width="418" height="469" alt="도착" src="https://github.com/user-attachments/assets/323db94a-f7d8-4a3e-946e-5e2caea30c46" />
 
+
+
+
+
 벽에 부딪혔을떄
 <img width="399" height="452" alt="벽" src="https://github.com/user-attachments/assets/7d17c738-d99b-4a9f-bb9e-7e0ed219f65e" />
+
+
+
+
 
 
 🎮미로찾기 게임 전체 흐름 정리
