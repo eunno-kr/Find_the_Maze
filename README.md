@@ -112,6 +112,11 @@ python Find_the_Maze.py
 
 
 
+
+
+
+
+
 도착시
 <img width="418" height="469" alt="도착" src="https://github.com/user-attachments/assets/323db94a-f7d8-4a3e-946e-5e2caea30c46" />
 
@@ -119,8 +124,27 @@ python Find_the_Maze.py
 
 
 
+
+
+
+
+
+
+
+
+
+
 벽에 부딪혔을떄
 <img width="399" height="452" alt="벽" src="https://github.com/user-attachments/assets/7d17c738-d99b-4a9f-bb9e-7e0ed219f65e" />
+
+
+
+
+
+
+
+
+
 
 
 
