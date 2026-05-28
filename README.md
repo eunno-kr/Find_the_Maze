@@ -98,7 +98,9 @@ def main(page: ft.Page):   #   전체 화면으로 실행
   page.add(layout)   #ui 생성 
   update_display()  # 초기 화면 그대로 세
 
-ft.run(main)   # 전체 시작```
+ft.run(main)   # 전체 시작
+```
+
 
 터미널 실행
 python Find_the_Maze.py
