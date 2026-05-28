@@ -119,7 +119,8 @@ python Find_the_Maze.py
 
 
 
-도착시<img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
+ **도착화면**
+![미로찾기 도착시] <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
 
 
 
@@ -135,8 +136,8 @@ python Find_the_Maze.py
 
 
 
-
-벽에 부딪혔을떄<img width="418" height="469" alt="도착" src="https://github.com/user-attachments/assets/323db94a-f7d8-4a3e-946e-5e2caea30c46" />
+ **벽에부딪혔을때**
+![미로찾기 벽에부딪혔을때]<img width="418" height="469" alt="도착" src="https://github.com/user-attachments/assets/323db94a-f7d8-4a3e-946e-5e2caea30c46" />
 
 
 
