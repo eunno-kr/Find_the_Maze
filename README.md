@@ -106,11 +106,9 @@ ft.run(main)   # 전체 시작
 python Find_the_Maze.py
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/본인의_이미지_주소" width="400" alt="미로찾기 시작화면"><br>
+
   <strong>시작화면</strong>
-</p>
-[미로찾기 시작화면] <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
+ <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
 
 
 
