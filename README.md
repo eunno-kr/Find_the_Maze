@@ -123,14 +123,9 @@ python Find_the_Maze.py
 ![미로찾기 도착시] <img width="367" height="406" alt="출력 값" src="https://github.com/user-attachments/assets/8fc36c15-fc90-418d-86b2-d8074e3a0d2c" />
 
 
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
 
 
 
@@ -161,7 +156,7 @@ python Find_the_Maze.py
 
 
 
-```🎮미로찾기 게임 전체 흐름 정리
+🎮미로찾기 게임 전체 흐름 정리
         프로그램 시작
             ↓
         main 실행
